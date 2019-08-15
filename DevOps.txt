@@ -5,3 +5,5 @@ Bamboo
 Docker
 Kubernetes
 Puppet Enterprise
+Ansible
+Nagios
