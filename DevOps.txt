@@ -1,10 +1,10 @@
-Gradle
-Git
-Jenkins
-Bamboo
-Docker
-Kubernetes
-Puppet Enterprise
-Ansible
-Nagios
-Raygun
+Gradle // Build Tool. Gradle helps teams build automate and deliver better software, faster.
+Git  // Distributed Source Code Management
+Jenkins // Open Source CI/CD Server
+Bamboo //Bamboo is Atlassian’s CI/CD server solution that has many similar features to Jenkins.
+Docker //Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. 
+Kubernetes //Kubernetes is an open source system for automating deployment, scaling and management of containerized applications.
+Puppet Enterprise //Puppet Enterprise is a cross-platform configuration management platform. It allows you to manage your infrastructure as code.
+Ansible //Ansible is a configuration management tool, similar to Puppet and Chef. You can use it to configure your infrastructure and automate deployment. Its main selling points compared to other similar DevOps tools are simplicity and ease of use. Ansible follows the same Infrastructure As Code (IAC) approach as Puppet. However, it uses the super simple YAML syntax. With Ansible, you can define tasks in YAML, while Puppet has its own declarative language.
+Nagios //Nagios is one of the most popular free and open source DevOps monitoring tools. It allows you to monitor your infrastructure so that you can find and fix problems. With Nagios, you can keep records of events, outages, and failures. You can also keep an eye on trends with the help of Nagios’ graphs and reports.
+Raygun// Raygun is a world-class error monitoring and crash reporting platform. Application performance monitoring (APM) is its most recent product. Raygun’s DevOps tool helps you diagnose performance issues and tracking them back to the exact line of code, function, or API call.
